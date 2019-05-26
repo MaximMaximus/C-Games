@@ -9,9 +9,10 @@ Sudoku Master!
 Prepare yourself for the new next gen ASCII graphics,<br />
 realistic soundscape and the biggest challenge of your life.<br />
 Now with source code!<br />
-![](sudoku.jpg) 
-</p>
 
+</p>
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[sudoku.jpg]]
+![](sudoku.jpg)
+
+
 
