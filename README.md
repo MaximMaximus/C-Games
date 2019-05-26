@@ -9,4 +9,3 @@ Prepare yourself for the new next gen ASCII graphics,<br />
 realistic soundscape and the biggest challenge of your life.<br />
 Now with source code!<br />
 </p>
-![](https://github.com/MaximMaximus/SudokuC/blob/master/sudoku.jpg)
