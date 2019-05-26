@@ -1,2 +1,3 @@
 # SudokuC
 Sudoku
+![](sudoku.jpg)
