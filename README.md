@@ -1,5 +1,5 @@
-<p align="center">
 # SudokuC
+<p align="center">
 Sudoku Masters <br />
 Are you ready for the ultimate Sudoku challenge?<br />
 Face the relentless sudoku AI<br />
