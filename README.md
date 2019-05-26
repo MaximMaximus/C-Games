@@ -10,4 +10,4 @@ realistic soundscape and the biggest challenge of your life.<br />
 Now with source code!<br />
 </p>
 
-![](https://raw.githubusercontent.com/MaximMaximus/SudokuC/blob/master/sudoku.jpg)
+![](https://raw.githubusercontent.com/MaximMaximus/SudokuC/sudoku.jpg)
