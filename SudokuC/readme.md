@@ -11,4 +11,4 @@ Now with source code!<br />
 </p>
 
 
-![](https://github.com/MaximMaximus/SudokuC/blob/master/sudoku.jpg)
+![](https://github.com/MaximMaximus/SudokuC/blob/master/SudokuC/sudoku.jpg)
