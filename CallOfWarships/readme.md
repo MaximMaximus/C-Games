@@ -8,3 +8,6 @@ Warlord!
 Prepare yourself for the new next gen ASCII graphics,<br />
 realistic soundscape and the biggest challenge of your life.<br />
 </p>
+
+
+![](https://github.com/MaximMaximus/C-Games/blob/master/CallOfWarships/COW.jpg)
